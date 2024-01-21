@@ -1,5 +1,16 @@
-# Color Palette Blender Addon
+# ColorPalette Blender Addon
 
+![Thumbnail_rounded](https://github.com/Jishnu-jithu/color-palette/assets/145359279/001d1c79-d669-47e4-9522-7d35fe989709)
+
+<p align="center">
+  <kbd>
+    <br>
+    <a href="https://www.blendermarket.com/creator/products/color-palette">Get it on BlenderMarket</a>
+    <br>
+    <br>
+  </kbd>
+</p>
+ 
 ## Description
 
 Tired of manually assigning colors to your models? Let Color Palette do the magic for you! ✨ This Blender addon instantly injects vibrant hues into your scenes, making color experimentation a breeze.
@@ -40,15 +51,15 @@ Tired of manually assigning colors to your models? Let Color Palette do the magi
 
 To install the Color Palette addon, follow these steps:
 
-1. Download the latest release from the [Releases](link_to_releases) page.
+1. Purchase Color Palette from [Blender Market](https://www.blendermarket.com/creator/products/color-palette).
 2. Open Blender and go to Edit > Preferences > Add-ons.
 3. Click "Install" and select the downloaded ZIP file.
 4. Activate the Color Palette addon.
 
 ## Usage
 
-1. Open Blender and navigate to the Color Palette panel.
-2. Use the provided features to enhance your scenes with vibrant colors.
+1. Open Blender and find the Color Palette panel in the sidebar.
+2. Use the provided features in the sidebar to enhance your scenes with vibrant colors.
 
 ## Contribution
 
