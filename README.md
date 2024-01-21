@@ -22,19 +22,19 @@ Tired of manually assigning colors to your models? Let Color Palette do the magi
 ## Screenshots
 
 ### Generate random color:
-![Generate random color](videos/Random%20Color.gif)
+<img src="videos/Random%20Color.gif" width="1100">
 
 ### Generate random color from custom color:
-![Generate random color from custom color](videos/Custom%20Color.gif)
+<img src="videos/Custom%20Color.gif" width="1100">
 
 ### Color Settings:
-![Color Settings](videos/Settings.gif)
+<img src="videos/Settings.gif" width="1100">
 
 ### Presets:
-![Presets](videos/Presets.gif)
+<img src="videos/Presets.gif" width="1100">
 
 ### Preferences:
-![Preferences](videos/Preference.gif)
+<img src="videos/Preference.gif" width="1100">
 
 ## Installation
 
