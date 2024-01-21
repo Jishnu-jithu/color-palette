@@ -22,20 +22,19 @@ Tired of manually assigning colors to your models? Let Color Palette do the magi
 ## Screenshots
 
 ### Generate random color:
-
-![Generate random color](https://markets-rails.s3.amazonaws.com/cache/a02b8bd745f60ad8a01a30b1a4b395db.gif)
+![Generate random color](videos/Random%20Color.gif)
 
 ### Generate random color from custom color:
-![Generate random color from custom color](screenshots/custom_color.png)
+![Generate random color from custom color](videos/Custom%20Color.gif)
 
 ### Color Settings:
-![Color Settings](screenshots/color_settings.png)
+![Color Settings](videos/Settings.gif)
 
 ### Presets:
-![Presets](screenshots/presets.png)
+![Presets](videos/Presets.gif)
 
 ### Preferences:
-![Preferences](screenshots/preferences.png)
+![Preferences](videos/Preference.gif)
 
 ## Installation
 
