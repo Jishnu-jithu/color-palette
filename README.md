@@ -63,7 +63,7 @@ To install the Color Palette addon, follow these steps:
 
 ## Contribution
 
-Contributions are welcome! If you find any issues or have suggestions, please [open an issue](link_to_issues).
+Contributions are welcome! If you find any issues or have suggestions, please [open an issue](https://github.com/Jishnu-jithu/color-palette/issues).
 
 ---
 
